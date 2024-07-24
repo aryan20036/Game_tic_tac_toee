@@ -1,0 +1,1 @@
+I believe I presented sufficient details about my project for the grader to completely understand the work that was done and the goals of the project. I explained the game of Tic-Tac-Toe, the Minimax algorithm with alpha-beta pruning, and the different evaluation functions used by the two GPUs. I also provided a clear overview of the project's goals and objectives.
